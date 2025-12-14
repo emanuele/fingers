@@ -1,0 +1,13 @@
+[project]
+name = "fingers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython>=9.8.0",
+    "mediapipe>=0.10.21",
+    "opencv-python>=4.11.0.86",
+    "python-lsp-server>=1.14.0",
+    "pyttsx3>=2.99",
+]
